@@ -1,0 +1,8 @@
+{
+  "name": "Remix Apex Mercenary Command",
+  "description": "A dystopian cold war army simulator where you command elite mercenaries, execute brutal proxy missions, and build the ultimate military syndicate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
